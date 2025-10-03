@@ -57,7 +57,7 @@ Data diproses untuk menghitung:
   - Mengembangkan model prediksi churn.
 
 ## Kontributor
-- [Patrick Jonathan]()
+- [Patrick Jonathan](https://github.com/patrickjoo)
 - [Reyhan Kurniawan](https://github.com/ReyhanKurniawan10)
 - [Bernando Virto Gunawan](https://github.com/bernandogunawan)
 
