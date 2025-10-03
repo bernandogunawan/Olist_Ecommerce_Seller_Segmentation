@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 FEATURES = ["recency", "frequency", "monetary", "average_rating"]
-MODEL_PATH = "D:/Ds_bootcamp/final_project/model_cluster.joblib"
+MODEL_PATH = "model_cluster.joblib"
 
 DEFAULTS = {
     "recency" : 1,
@@ -27,7 +27,7 @@ treatments = {
     1: "- Loyalty Program\n- Insentif Transaksi\n- Promosi VIP",
     2: "- Training & Edukasi\n- Subsidi Promosi\n- Reward Target"
 }
-IMAGE_PATH = "D:/Ds_bootcamp/final_project/dataset/logo_olist_d7309b5f20.png"
+IMAGE_PATH = "dataset/logo_olist_d7309b5f20.png"
 
 # ----------------------------
 # Utilities
@@ -323,4 +323,5 @@ with TAB_ANALYSIS:
             st.markdown("---")
 
     else:
+
         st.warning("No prediction results available yet. Please run a prediction first.")
