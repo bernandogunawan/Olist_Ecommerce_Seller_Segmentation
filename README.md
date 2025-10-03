@@ -1,4 +1,5 @@
 # Olist E-Commerce Seller Segmentation Analysis
+Aplikasi dengan streamlit: [Olist-seller-segmentation](https://olist-seller-segmentation.streamlit.app/)
 
 ## Deskripsi Proyek
 Proyek ini melakukan analisis perilaku seller di Olist, sebuah platform B2B2C e-commerce enabler asal Brasil. Tujuannya adalah mengidentifikasi segmen seller berdasarkan aktivitas mereka untuk mendukung strategi retensi, pengembangan, dan optimasi revenue. Analisis mencakup exploratory data analysis (EDA), perhitungan metrik RFM + Rating, segmentasi manual, dan clustering dengan ML. Hasilnya memberikan insight tentang seller berkinerja tinggi, sedang, dan rendah, beserta rekomendasi bisnis.
