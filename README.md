@@ -1,4 +1,4 @@
-# Olist E-Commerce Seller Segmentation Analysis -
+# Olist E-Commerce Seller Segmentation Analysis
 Aplikasi dengan streamlit: [Olist-seller-segmentation](https://olist-seller-segmentation.streamlit.app/)
 
 ## Deskripsi Proyek
